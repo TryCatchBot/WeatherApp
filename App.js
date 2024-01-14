@@ -59,7 +59,10 @@ const styles = StyleSheet.create({
     alignItems: 'flex-start',
   },
   description: {
-    
+    fontSize: 48,
+  },
+  description: {
+    fontSize: 30,
   },
   // description: {},
 });
